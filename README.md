@@ -159,3 +159,6 @@ Output: `22`
 
 ---
 
+This program finds the maximum value you can get by choosing distinct vitamin types from a list, where the value is calculated as C * k - total_cost. Here, k is the number of different vitamins chosen, and total_cost is the sum of their minimum costs. It reads the vitamin types and costs, then stores the cheapest cost for each vitamin type.
+
+After gathering these minimum costs, the program sorts them and tries picking vitamins starting from the cheapest, one by one. For each number of vitamins chosen, it calculates the value and keeps track of the highest value found. Finally, it prints the maximum value for each test case.
