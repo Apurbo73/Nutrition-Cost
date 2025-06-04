@@ -1,4 +1,4 @@
-﻿# Nutrition-Cost
+### Nutrition Cost
 
 Certainly! Here's a detailed explanation of the program step-by-step:
 
